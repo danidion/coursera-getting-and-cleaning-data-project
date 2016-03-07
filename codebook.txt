@@ -1,0 +1,8 @@
+My Project dataset code book
+==================================================
+
+
+The set of variables that are used in the code: 
+
+mean(): Mean value
+std(): Standard deviation
